@@ -4,7 +4,7 @@
 
 ### Download the App:
 * [Get it for Android](https://play.google.com/store/apps/details?id=com.caitcommittee.camobileappdemo)
-* iOS is coming soon
+* [Get it for iPhone](https://apps.apple.com/app/c-a-meeting-finder/id6504262893)
 
 **What is this website/repository?**
 A GitHub repository is like a digital folder where developers store all the files and documents needed for their software projects. It also keeps a history of any changes made, so developers can track their work and collaborate with others easily.
